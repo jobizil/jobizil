@@ -1,4 +1,4 @@
-### Hi there, I'm Job Ugbem - aka [jobizil] 
+### Hi there, I'm Job Ugbem - aka [jobizil]
 
 ## I'm a Developer and a Teacher!
 - 🌱 I’m currently learning nodeJs to be a better server-side developer
@@ -30,7 +30,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-
+[jobizil]: https://github.com/jobizil
 [twitter]: https://twitter.com/jobizil
 [linkedin]: https://www.linkedin.com/in/job-ugbem
 <!-- [jobizil] :  -->
