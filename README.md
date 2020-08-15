@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning nodeJs to be a better server-side developer
 - 👯 I’m looking to collaborate with awesome and mindful developers
 - 🥅 2020 Goals: Learn more  and build more 
-- ⚡ Fun fact: I love to videog games and listen to music
+- ⚡ Fun fact: I love to play video games and listen to music. 
 
 ### Connect with me:
 
