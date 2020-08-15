@@ -1,6 +1,6 @@
 ### Hi there, I'm Job Ugbem - aka [jobizil]
 
-## I'm a Developer and a Teacher!
+### I'm a Developer and a Teacher!
 - 🌱 I’m currently learning nodeJs to be a better server-side developer
 - 👯 I’m looking to collaborate with awesome and mindful developers
 - 🥅 2020 Goals: Learn more  and build more 
