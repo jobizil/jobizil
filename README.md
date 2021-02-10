@@ -1,13 +1,21 @@
 ### Hi there, I'm Job Ugbem - aka [jobizil]
 
 ### I'm a Developer and a Teacher!
-- 🌱 I’m currently fiddling around with nodeJs to be a better server-side developer.
-- 👯 I’m looking to collaborate with awesome and mindful developers
-- 🥅 2020 Goals: Learn more and build more 
+- 🌱 I’m currently fiddling around with NodeJs and Python to be a better server-side developer.
+- 👯 I’m looking to collaborate with awesome and mindful developers.
+- 🥅 My Goal is to learn more and build more.
 - ⚡ Fun fact: I love to play video games and listen to music. 
 
-### Connect with me:
+<div align="center">
+    <a href="https://github.com/jobizil">
+        <img align="center"
+            src="https://github-readme-stats.vercel.app/api?username=jobizil&show_icons=true&theme=dracula&line_height=27"
+            alt="Jobizil's GitHub Stats" />
+    </a>
+</div>
+<br />
 
+### Connect with me:
 [<img align="left" alt="jobizil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target= "_blank" />][twitter]
 [<img align="left" alt="jobizil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  target= "_blank"/>][linkedin]
 <!-- [<img align="left" alt="jobizil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
