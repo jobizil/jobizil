@@ -6,7 +6,7 @@
 - 🥅 My Goal is to learn more and build more.
 - ⚡ Fun fact: I love to play video games and listen to music. 
 
-<div align="center">
+<div align="left">
     <a href="https://github.com/jobizil">
         <img align="center"
             src="https://github-readme-stats.vercel.app/api?username=jobizil&show_icons=true&theme=dracula&line_height=27"
