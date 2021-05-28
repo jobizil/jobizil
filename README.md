@@ -1,4 +1,6 @@
-### Hi there, I'm Job Ugbem - aka [jobizil]
+### Hi there, I'm Job Ugbem - aka [Jobizil]
+
+
 
 ### I'm a Developer and a Teacher!
 - 🌱 I’m currently fiddling around with NodeJs and Python to be a better server-side developer.
@@ -36,9 +38,13 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br>
+<div align="right">
+    <br />
+<img src="https://komarev.com/ghpvc/?username=jobizil&label=Views&color=blue&style=flat" alt="Views" />
+</div>
 
-
-[jobizil]: https://github.com/jobizil
+[Jobizil]: https://ugbemjob.xyz
 [twitter]: https://twitter.com/jobizil
 [linkedin]: https://www.linkedin.com/in/job-ugbem
 <!-- [jobizil] :  -->
