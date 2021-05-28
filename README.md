@@ -3,7 +3,7 @@
 
 
 ### I'm a Developer and a Teacher!
-- 🌱 I’m currently fiddling around with NodeJs and Python to be a better server-side developer.
+- 🌱 I’m currently fiddling around with NodeJs to be a better server-side developer.
 - 👯 I’m looking to collaborate with awesome and mindful developers.
 - 🥅 My Goal is to learn more and build more.
 - ⚡ Fun fact: I love to play video games and listen to music. 
