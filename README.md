@@ -1,9 +1,8 @@
-### Hi there, I'm Job Ugbem - aka [Jobizil]
-
+### Hi there, I'm Job Ugbem 
 
 
 ### I'm a Developer and a Teacher!
-- 🌱 I’m currently fiddling around with NodeJs to be a better server-side developer.
+- 🌱 I’m currently fiddling around with NodeJs to be a better backend developer.
 - 👯 I’m looking to collaborate with awesome and mindful developers.
 - 🥅 My Goal is to learn more and build more.
 - ⚡ Fun fact: I love to play video games and listen to music. 
@@ -24,7 +23,7 @@
 
 <br />
 
-### Languages and Tools:
+### Tools I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
