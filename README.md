@@ -24,6 +24,8 @@
 ### Connect with me:
 [<img align="left" alt="jobizil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target= "_blank" />][twitter]
 [<img align="left" alt="jobizil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  target= "_blank"/>][linkedin]
+[<img align="left" alt="jobizil | Dev_dot_to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"  target= "_blank"/>][DevTo]
+<!-- [<img align="left" alt="jobizil | Hashnode" width="22px" src="https://i.imgur.com/fLg0DhT.jpg"  target= "_blank"/>][Hashnode] -->
 <!-- [<img align="left" alt="jobizil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
@@ -51,4 +53,6 @@
 [Jobizil]: https://ugbemjob.xyz
 [twitter]: https://twitter.com/jobizil
 [linkedin]: https://www.linkedin.com/in/job-ugbem
+[DevTo]: https://dev.to/jobizil
+[Hashnode]: https://hashnode.com/@Jobizil
 <!-- [jobizil] :  -->
