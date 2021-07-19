@@ -1,7 +1,7 @@
 ### Hi there, I'm Job Ugbem 
 
 
-### I'm a Developer and a Teacher!
+### I'm a Backend Engineer and a Teacher!
 - 🌱 I’m currently fiddling around with NodeJs to be a better backend developer.
 - 👯 I’m looking to collaborate with awesome and mindful developers.
 - 🖊️ I write beginner-friendly articles
