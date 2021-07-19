@@ -4,6 +4,7 @@
 ### I'm a Developer and a Teacher!
 - 🌱 I’m currently fiddling around with NodeJs to be a better backend developer.
 - 👯 I’m looking to collaborate with awesome and mindful developers.
+- 🖊️ I write beginner-friendly articles
 - 🥅 My Goal is to learn more and build more.
 - ⚡ Fun fact: I love to play video games and listen to music. 
 
@@ -16,9 +17,10 @@
 </div>
 <br />
 
-### Articles
+### Some of my Articles
 - [Getting started with Winston Logger; A beginner's guide](https://dev.to/jobizil/getting-started-with-winston-logger-a-beginner-s-guide-7j3)
 - [Deploying and Hosting a Custom Domain on Vercel](https://jobizil.hashnode.dev/hosting-custom-domain-on-vercel)
+- [Deploy NodeJS app on Heroku using Github](https://jobizil.hashnode.dev/deploy-nodejs-app-on-heroku-using-github)
 
 
 ### Connect with me:
