@@ -16,10 +16,11 @@
 
 ---
 
-### Tools I Use
+### Latest Articles
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="Yarn" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
-
+- [Getting started with Winston Logger; A beginner's guide](https://dev.to/jobizil/getting-started-with-winston-logger-a-beginner-s-guide-7j3)
+- [Deploying and Hosting a Custom Domain on Vercel](https://jobizil.hashnode.dev/hosting-custom-domain-on-vercel)
+- [Deploy NodeJS app on Heroku using Github](https://jobizil.hashnode.dev/deploy-nodejs-app-on-heroku-using-github)
 
 
 ---
@@ -36,27 +37,32 @@
 
 ---
 
-### Latest Articles
+### Tools I Use
 
-- [Getting started with Winston Logger; A beginner's guide](https://dev.to/jobizil/getting-started-with-winston-logger-a-beginner-s-guide-7j3)
-- [Deploying and Hosting a Custom Domain on Vercel](https://jobizil.hashnode.dev/hosting-custom-domain-on-vercel)
-- [Deploy NodeJS app on Heroku using Github](https://jobizil.hashnode.dev/deploy-nodejs-app-on-heroku-using-github)
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="Yarn" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
+
 
 
 
 ---
 
-
 ## &#x1f4c8; GitHub Stats
 
+## ![Jobizil's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobizil&theme=dracula)
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobizil&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-## [![Jobizil's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobizil&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## ![Jobizil's Streak ](https://github-readme-streak-stats.herokuapp.com/?user=jobizil&theme=dracula)
 
-
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobizil&hide=java,html,css&theme=radical)
 
 [jobizil]: https://ugbemjob.xyz
 [twitter]: https://twitter.com/jobizil
 [linkedin]: https://www.linkedin.com/in/job-ugbem
 [devto]: https://dev.to/jobizil
 [hashnode]: https://hashnode.com/@Jobizil
+
+<!--
+[<img align="left" alt="jobizil | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" target= "_blank" />][twitter] -->
+
+<!-- <p align="left"> <a href="https://github.com/jobizil"><img src="https://github-profile-trophy.vercel.app/?username=jobizil&theme=onedark" alt="jobizil" /></a> </p>
+ -->
+
