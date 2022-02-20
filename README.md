@@ -6,9 +6,9 @@
 
 ---
 
-> I'm a Backend Engineer and a Teacher!
+> I'm a Backend Engineer and a Tutor!
 
-- 🌱 I’m currently fiddling around with NodeJs to be a better backend developer.
+- 🌱 I’m currently fiddling around with Typescript. I mean, life is learning😉.
 - 👯 I’m looking to collaborate with awesome and mindful developers.
 - 🖊️ I write beginner-friendly articles
 - 🥅 My Goal is to learn more and build more.
@@ -16,7 +16,7 @@
 
 ---
 
-### Latest Articles
+### Articles
 
 - [Getting started with Winston Logger; A beginner's guide](https://dev.to/jobizil/getting-started-with-winston-logger-a-beginner-s-guide-7j3)
 - [Deploying and Hosting a Custom Domain on Vercel](https://jobizil.hashnode.dev/hosting-custom-domain-on-vercel)
