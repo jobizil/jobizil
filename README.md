@@ -37,8 +37,8 @@
 
 ---
 
-### Tools I Use
-
+<!-- ### Tools I Use -->
+<!-- 
 |       |           |   |
 | :-------------:|:-------------:| :-----:|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>|
@@ -48,18 +48,18 @@
 |<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="Yarn" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50"/>|
 
 
+ -->
 
-
----
+<!-- --- 
 
 ## &#x1f4c8; GitHub Stats
 
-## ![Jobizil's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobizil&theme=dracula)
+ ## ![Jobizil's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobizil&theme=dracula)
 
 ## ![Jobizil's Streak ](https://github-readme-streak-stats.herokuapp.com/?user=jobizil&theme=dracula)
-
+ 
 ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobizil&hide=java,html,css&theme=radical)
-
+-->
 [jobizil]: https://ugbemjob.xyz
 [twitter]: https://twitter.com/jobizil
 [linkedin]: https://www.linkedin.com/in/job-ugbem
