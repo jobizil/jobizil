@@ -2,10 +2,10 @@
 <div align="right"><img src="https://komarev.com/ghpvc/?username=jobizil&label=Views&color=blue&style=flat" alt="Views" /></div>
 
 
-### Hi there, I'm Job Ugbem
+### Hi there, I'm Jobizil
 
 ---
-
+<!-- 
 > I'm a Backend Engineer and a Tutor!
 
 - 🌱 I’m currently fiddling around with Typescript. I mean, life is learning😉.
@@ -35,7 +35,7 @@
 <br>
 
 
----
+--- -->
 
 <!-- ### Tools I Use -->
 <!-- 
