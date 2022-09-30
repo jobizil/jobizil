@@ -8,7 +8,7 @@
 
 > I'm a 👨🏾‍💻 Backend Engineer and a 🛠 Pentesting Enthusiast!
 
-- 🌱 I’m currently fiddling around with Typescript. I mean, life is learning😉.
+- 🌱 I’m currently fiddling around with Typescript and some Hacking tools. I mean, life is learning😉.
 - 👯 I’m looking to collaborate with awesome and mindful developers.
 - 🖊️ I write beginner-friendly articles
 - 🥅 My Goal is to learn more and build more.
