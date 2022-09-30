@@ -5,8 +5,8 @@
 ### Hi there, I'm Jobizil
 
 ---
-<!-- 
-> I'm a Backend Engineer and a Tutor!
+
+> I'm a 👨🏾‍💻 Backend Engineer | 🛠 Pentesting Enthusiast!
 
 - 🌱 I’m currently fiddling around with Typescript. I mean, life is learning😉.
 - 👯 I’m looking to collaborate with awesome and mindful developers.
@@ -35,7 +35,6 @@
 <br>
 
 
---- -->
 
 <!-- ### Tools I Use -->
 <!-- 
