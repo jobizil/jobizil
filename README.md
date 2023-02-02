@@ -5,30 +5,33 @@
 ### Hi there, I'm Jobizil
 
 ---
+Hi there! I'm a seasoned 👨🏾‍💻 Backend Engineer and a passionate 🛠 Pentesting Enthusiast. I'm constantly seeking new opportunities to grow and improve my skills.
 
-> I'm a 👨🏾‍💻 Backend Engineer and a 🛠 Pentesting Enthusiast!
+Right now, I'm exploring the world of Typescript and keeping up with the latest hacking tools. I believe that life is all about learning, and I'm always open to trying new things.
 
-- 🌱 I’m currently fiddling around with Typescript and some Hacking tools. I mean, life is learning😉.
-- 👯 I’m looking to collaborate with awesome and mindful developers.
-- 🖊️ I write beginner-friendly articles
-- 🥅 My Goal is to learn more and build more.
-- ⚡ Fun fact: I love to play video games and listen to music.
+In addition to my technical skills, I'm also interested in collaborating with like-minded developers who are driven, creative, and mindful. I think that working together can lead to some truly amazing projects.
+
+When I'm not coding, I love to share my knowledge with others by writing beginner-friendly articles. I want to help others learn and grow, just as I am constantly doing myself.
+
+Ultimately, my goal is to continue learning, building, and making a positive impact in the world of technology. Oh, and in my free time, I love to play video games and listen to music. I think it's important to have a well-rounded life!
 
 ---
 
-### Articles
+### Some of my Articles
 
 - [Getting started with Winston Logger; A beginner's guide](https://dev.to/jobizil/getting-started-with-winston-logger-a-beginner-s-guide-7j3)
-- [Deploying and Hosting a Custom Domain on Vercel](https://jobizil.hashnode.dev/hosting-custom-domain-on-vercel)
 - [Deploy NodeJS app on Heroku using Github](https://jobizil.hashnode.dev/deploy-nodejs-app-on-heroku-using-github)
+
+
+ [View More Articles Here](https://jobizil.hashnode.dev)
 
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="jobizil | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" target= "_blank" />][twitter]
 [<img align="left" alt="jobizil | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  target= "_blank"/>][linkedin]
+[<img align="left" alt="jobizil | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" target= "_blank" />][twitter]
 [<img align="left" alt="jobizil | Dev_dot_to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"  target= "_blank"/>][devto]
 
 
@@ -59,6 +62,10 @@
  
 ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobizil&hide=java,html,css&theme=radical)
 -->
+
+
+
+ 
 [jobizil]: https://ugbemjob.xyz
 [twitter]: https://twitter.com/jobizil
 [linkedin]: https://www.linkedin.com/in/job-ugbem
