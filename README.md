@@ -1,6 +1,6 @@
+<div align="left"><img src="https://komarev.com/ghpvc/?username=jobizil&label=Views&color=blue&style=flat" alt="Views" /></div>
 
-<div align="right"><img src="https://komarev.com/ghpvc/?username=jobizil&label=Views&color=blue&style=flat" alt="Views" /></div>
-
+[![wakatime](https://wakatime.com/badge/user/00e450d1-4525-46de-9581-3894e39e3624.svg)](https://wakatime.com/@00e450d1-4525-46de-9581-3894e39e3624) 
 
 ### Hi there, I'm Jobizil
 
