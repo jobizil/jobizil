@@ -1,6 +1,3 @@
-<div align="left"><img src="https://komarev.com/ghpvc/?username=jobizil&label=Views&color=blue&style=flat" alt="Views" /></div>
-
-[![wakatime](https://wakatime.com/badge/user/00e450d1-4525-46de-9581-3894e39e3624.svg)](https://wakatime.com/@00e450d1-4525-46de-9581-3894e39e3624) 
 
 ### Hi there, I'm Jobizil
 
@@ -30,13 +27,21 @@ Ultimately, my goal is to continue learning, building, and making a positive imp
 
 ### Connect with me:
 
-[<img align="left" alt="jobizil | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  target= "_blank"/>][linkedin]
-[<img align="left" alt="jobizil | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" target= "_blank" />][twitter]
-[<img align="left" alt="jobizil | Dev_dot_to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"  target= "_blank"/>][devto]
+[<img align="left" alt="jobizil | LinkedIn" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  target= "_blank"/>][linkedin]
+[<img align="left" alt="jobizil | Dev_dot_to" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"  target= "_blank"/>][devto]
+[<img align="left" alt="jobizil | Twitter" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" target= "_blank" />][twitter]
+[<img align="left" alt="jobizil | Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"  target= "_blank"/>][github]
 
+ [<img align="left" alt="jobizil | Hashnode" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg"  target= "_blank"/>][hashnode]
+ 
+ 
+<br> 
 
 <br>
 
+<div align="left"><img src="https://komarev.com/ghpvc/?username=jobizil&label=Views&color=blue&style=flat" alt="Views" /></div>
+
+[![wakatime](https://wakatime.com/badge/user/00e450d1-4525-46de-9581-3894e39e3624.svg)](https://wakatime.com/@00e450d1-4525-46de-9581-3894e39e3624) 
 
 
 <!-- ### Tools I Use -->
@@ -71,6 +76,7 @@ Ultimately, my goal is to continue learning, building, and making a positive imp
 [linkedin]: https://www.linkedin.com/in/job-ugbem
 [devto]: https://dev.to/jobizil
 [hashnode]: https://hashnode.com/@Jobizil
+[github]: https://github.com/jobizil
 
 <!--
 [<img align="left" alt="jobizil | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" target= "_blank" />][twitter] -->
